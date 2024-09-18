@@ -26,5 +26,4 @@
 
 <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alanhiram75&theme=shadow_blue&hide_border=false" /><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanhiram75&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
