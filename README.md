@@ -25,14 +25,6 @@
 </p>
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Alanhiram75&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false" /><br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alanhiram75&theme=shadow_blue&hide_border=false" /><br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanhiram75&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
-
----
-<p align="center">
-    <img src="https://visitcount.itsvg.in/api?id=Alanhiram75&icon=0&color=0" />
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
