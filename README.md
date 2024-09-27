@@ -40,7 +40,9 @@
     <a href="https://instagram.com/just.hiram_" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="just.hiram_" height="30" width="40" style="margin: 0; padding: 0;"/>
     </a>
-    <span style="margin-left: 10px;">alanhiram75@gmail.com</span>
+    <a href="mailto:alanhiram75@gmail.com" target="blank">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/de/Gmail_Icon.png" alt="gmail" height="30" width="40" style="margin: 0 5px;"/>
+    </a>
 </p>
 
 <p>
