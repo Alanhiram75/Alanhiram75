@@ -5,8 +5,8 @@
     </a>
 </h3>
 
-<p align="right">
-    <img src="https://media.tenor.com/Q1GffEXQrgAAAAAi/cyndaquil-pokemon.gif" width="100" alt="Animated GIF" style="float: right;"/>
+<p align="right" style="margin: 0;">
+    <img src="https://media.tenor.com/Q1GffEXQrgAAAAAi/cyndaquil-pokemon.gif" width="100" alt="Animated GIF" style="vertical-align: middle;"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
