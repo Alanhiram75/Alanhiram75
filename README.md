@@ -31,6 +31,13 @@
     </a> 
 </p>
 
+<h3 align="left">Otras Skills o Herramientas:</h3>
+<p align="left">
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" style="margin: 0; padding: 0;"/>
+    </a>
+</p>
+
 <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alanhiram75&theme=shadow_blue&hide_border=false" /><br/>
 </p>
