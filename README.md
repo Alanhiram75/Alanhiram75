@@ -8,7 +8,7 @@
 </h3>
 
 <p align="right">
-    <img src="https://66.media.tumblr.com/f8134b0337d2c3d025b82904c07faf74/tumblr_pdewz5XhaW1scncwdo1_540.gif" width="100" alt="Animated GIF" />
+    <img src="https://66.media.tumblr.com/f8134b0337d2c3d025b82904c07faf74/tumblr_pdewz5XhaW1scncwdo1_540.gif" width="100" alt="Animated GIF" style="float: right;"/>
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -21,4 +21,16 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" heig
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+    </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    </a> 
+</p>
+
+<p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alanhiram75&theme=shadow_blue&hide_border=false" /><br/>
+</p>
