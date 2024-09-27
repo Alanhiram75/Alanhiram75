@@ -5,7 +5,7 @@
     </a>
 </h3>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
     <h3 align="left" style="margin: 0;">Languages and Tools:</h3>
     <img src="https://media.tenor.com/Q1GffEXQrgAAAAAi/cyndaquil-pokemon.gif" width="100" alt="Animated GIF" style="margin-left: 10px;"/>
 </div>
