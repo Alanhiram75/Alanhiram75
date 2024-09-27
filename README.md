@@ -1,4 +1,6 @@
 <h1 align="center">Hi ☕, I'm Alan Hiram</h1>
+<h3 align="center">Computer Systems Engineering Student 🇲🇽</h3>
+
 <h3 align="center">
     <a href="https://github.com/Alanhiram75">
         <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Systems+Engineering+Student;Changes+Translate+to+Good&center=true&width=600&height=45">
@@ -6,7 +8,7 @@
 </h3>
 
 <p align="right">
-    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c184e84e-c5de-4c7e-b093-7975e0af8bd5/d5lqmrq-e8e60a42-46de-45fe-8033-78322f6c4071.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MxODRlODRlLWM1ZGUtNGM3ZS1iMDkzLTc5NzVlMGFmOGJkNVwvZDVscW1ycC1lOGU2MGE0Mi00NmRlLTQ1ZmUtODAzMy03ODMyMmY2YzQwNzEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Aty9ZgXOmTC1pRkM7-1i49q7ay643VoCQ3uvArEmVJQ" width="100" alt="Animated GIF" style="float: right;"/>
+    <img src="https://media.tenor.com/Q1GffEXQrgAAAAAi/cyndaquil-pokemon.gif" width="100" alt="Animated GIF" style="float: right;"/>
 </p>
 
 <h3 align="left">Connect with me:</h3>
