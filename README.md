@@ -5,11 +5,11 @@
     </a>
 </h3>
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-    <h3 align="left" style="margin: 0;">Languages and Tools:</h3>
-    <img src="https://media.tenor.com/Q1GffEXQrgAAAAAi/cyndaquil-pokemon.gif" width="100" alt="Animated GIF" style="margin-left: 10px;"/>
+<div style="position: relative;">
+    <img src="https://media.tenor.com/Q1GffEXQrgAAAAAi/cyndaquil-pokemon.gif" width="100" alt="Animated GIF" style="position: absolute; right: 10px; top: 10px;"/>
 </div>
 
+<h3 align="left">Languages and Tools:</h3>
 <p align="left" style="margin: 0;">
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="margin: 0 5px;"/> 
