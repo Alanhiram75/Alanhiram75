@@ -3,7 +3,7 @@
 
 <h3 align="center">
     <a href="https://github.com/Alanhiram75">
-        <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Systems+Engineering+Student;Changes+Translate+to+Good&center=true&width=380&height=45">
+        <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Systems+Engineering+Student;Changes+Translate+to+Good&center=true&width=600&height=45">
     </a>
 </h3>
 
