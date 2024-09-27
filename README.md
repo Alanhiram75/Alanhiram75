@@ -3,7 +3,7 @@
 
 <h3 align="center">
     <a href="https://github.com/Alanhiram75">
-        <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Systems+Engineering+Student;Changes+Translate+to+Good&center=true&width=600&height=45">
+        <img src="https://readme-typing-svg.herokuapp.com?lines=Changes+Translate+to+Good&center=true&width=600&height=45">
     </a>
 </h3>
 
@@ -27,10 +27,4 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
     </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a> 
-</p>
-
-<p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alanhiram75&theme=shadow_blue&hide_border=false" /><br/>
-</p>
+        <i
