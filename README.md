@@ -5,12 +5,12 @@
     </a>
 </h3>
 
-<p align="right" style="margin: 0;">
+<p align="right" style="margin: 0; display: inline-block; vertical-align: middle;">
     <img src="https://media.tenor.com/Q1GffEXQrgAAAAAi/cyndaquil-pokemon.gif" width="100" alt="Animated GIF" style="vertical-align: middle;"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left" style="display: inline;">
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="margin: 0 5px;"/> 
     </a> 
