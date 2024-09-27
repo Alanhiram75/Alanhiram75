@@ -1,6 +1,12 @@
 <h1 align="center">Hi ☕, I'm Alan Hiram</h1>
 <h3 align="center">Computer Systems Engineering Student 🇲🇽</h3>
 
+<h3 align="center">
+    <a href="https://github.com/Alanhiram75">
+        <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Systems+Engineering+Student;Always+learning+new+things&center=true&width=380&height=45">
+    </a>
+</h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://instagram.com/just.hiram_" target="blank">
@@ -10,8 +16,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
     </a> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
