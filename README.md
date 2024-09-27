@@ -5,12 +5,12 @@
     </a>
 </h3>
 
-<p align="right" style="margin: 0; display: inline-block; vertical-align: middle;">
-    <img src="https://media.tenor.com/Q1GffEXQrgAAAAAi/cyndaquil-pokemon.gif" width="100" alt="Animated GIF" style="vertical-align: middle;"/>
-</p>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <h3 align="left" style="margin: 0;">Languages and Tools:</h3>
+    <img src="https://media.tenor.com/Q1GffEXQrgAAAAAi/cyndaquil-pokemon.gif" width="100" alt="Animated GIF" style="margin-left: 10px;"/>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display: inline;">
+<p align="left" style="margin: 0;">
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="margin: 0 5px;"/> 
     </a> 
@@ -23,7 +23,7 @@
 </p>
 
 <h3 align="left">Otras Skills o Herramientas:</h3>
-<p align="left">
+<p align="left" style="margin: 0;">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" style="margin: 0 5px;"/>
     </a>
@@ -36,7 +36,7 @@
 </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="margin: 0;">
     <a href="https://instagram.com/just.hiram_" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="just.hiram_" height="30" width="40" style="margin: 0; padding: 0;"/>
     </a>
