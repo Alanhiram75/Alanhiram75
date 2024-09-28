@@ -46,3 +46,7 @@
 <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alanhiram75&theme=shadow_blue&hide_border=false" /><br/>
 </p>
+
+<p align="center">
+    <img src="https://pa1.aminoapps.com/5723/2d13d2821abac15d17f9521de9a4841721f5e70a_00.gif" width="300" alt="Animated GIF" />
+</p>
