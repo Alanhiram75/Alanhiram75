@@ -5,10 +5,7 @@
     </a>
 </h3>
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-    <h3 align="left" style="margin: 0;">Languages:</h3>
-    <img src="https://media.tenor.com/Q1GffEXQrgAAAAAi/cyndaquil-pokemon.gif" width="100" alt="Animated GIF" style="margin-left: 10px;"/>
-</div>
+<h3 align="left">Languages:</h3>
 
 <p align="left" style="margin: 0;">
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
