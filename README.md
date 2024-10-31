@@ -1,7 +1,8 @@
 <h1 align="center">Hi ☕, I'm Alan Hiram</h1>
 <h3 align="center">
     <a href="https://github.com/Alanhiram75">
-        <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Systems+Engineering+Student,+Developer&center=true&width=600&height=45">
+        <span>Computer Systems Engineering Student, </span>
+        <img src="https://readme-typing-svg.herokuapp.com?lines=Developer&center=true&width=300&height=45">
     </a>
 </h3>
 
@@ -44,4 +45,5 @@
 </p>
 
 <p align="center">
-    <img src="https://64.
+    <img src="https://64.media.tumblr.com/f8134b0337d2c3d025b82904c07faf74/tumblr_pdewz5XhaW1scncwdo1_540.gif" width="300" alt="Animated GIF" />
+</p>
