@@ -1,12 +1,11 @@
 <h1 align="center">Hi ☕, I'm Alan Hiram</h1>
 <h3 align="center">
     <a href="https://github.com/Alanhiram75">
-        <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Systems+Engineering+Student;Computer+Systems+Developer&center=true&width=600&height=45&size=30&speed=100">
+        <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Systems+Engineering+Student,+Developer&center=true&width=600&height=45">
     </a>
 </h3>
 
 <h3 align="left">Languages:</h3>
-
 <p align="left" style="margin: 0;">
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="margin: 0 5px;"/> 
@@ -45,5 +44,4 @@
 </p>
 
 <p align="center">
-    <img src="https://64.media.tumblr.com/f8134b0337d2c3d025b82904c07faf74/tumblr_pdewz5XhaW1scncwdo1_540.gif" width="300" alt="Animated GIF" />
-</p>
+    <img src="https://64.
