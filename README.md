@@ -17,7 +17,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin: 0 5px;"/> 
     </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin: 0 5px;"/> 
+        <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" height="40" width="40" style="margin: 0 5px;"/> 
     </a> 
 </p>
 
@@ -36,13 +36,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="margin: 0;">
-    <a href="https://g.dev/Alanhiram75" target="blank">
-        <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" height="30" width="30" style="margin: 0 5px;"/>
-    </a>
     <a href="https://instagram.com/just.hiram_" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="just.hiram_" height="30" width="30" style="margin: 0; padding: 0;"/>
     </a>
     <a href="mailto:alanhiram75@gmail.com" style="font-size: 20px; margin: 0 5px;">alanhiram75@gmail.com</a>
+    <a href="https://g.dev/Alanhiram75" target="blank">
+        <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" height="30" width="30" style="margin: 0 5px;"/>
+    </a>
 </p>
 
 <p>
