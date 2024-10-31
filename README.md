@@ -2,7 +2,7 @@
 <h3 align="center">
     <a href="https://github.com/Alanhiram75">
         <span style="color: #00aaff;">Computer Systems Engineering Student</span><br>
-        <span style="color: #00aaff;">Developer</span>
+        <img src="https://readme-typing-svg.herokuapp.com?lines=Developer&center=true&width=300&height=45">
     </a>
 </h3>
 
