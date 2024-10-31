@@ -1,22 +1,10 @@
 <h1 align="center">Hi ☕, I'm Alan Hiram</h1>
 <h3 align="center">
     <a href="https://github.com/Alanhiram75">
-        <span style="color: #00aaff; animation: shake 0.5s infinite;">Computer Systems Engineering Student</span><br>
-        <span style="color: #00aaff;"> 
-            <img src="https://readme-typing-svg.herokuapp.com?lines=Developer&center=true&width=300&height=45">
-        </span>
+        <span style="color: #00aaff;">Computer Systems Engineering Student</span><br>
+        <span style="color: #00aaff;">Developer</span>
     </a>
 </h3>
-
-<style>
-@keyframes shake {
-    0% { transform: translate(1px, 0); }
-    25% { transform: translate(-1px, 0); }
-    50% { transform: translate(1px, 0); }
-    75% { transform: translate(-1px, 0); }
-    100% { transform: translate(1px, 0); }
-}
-</style>
 
 <h3 align="left">Languages:</h3>
 <p align="left" style="margin: 0;">
