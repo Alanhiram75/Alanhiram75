@@ -31,7 +31,10 @@
     </a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" style="margin: 0 5px;"/> 
-    </a> 
+    </a>
+    <a href="https://g.dev/Alanhiram75" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" height="40" width="40" style="margin: 0 5px;"/>
+    </a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -40,9 +43,6 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="just.hiram_" height="30" width="30" style="margin: 0; padding: 0;"/>
     </a>
     <a href="mailto:alanhiram75@gmail.com" style="font-size: 20px; margin: 0 5px;">alanhiram75@gmail.com</a>
-    <a href="https://g.dev/Alanhiram75" target="blank">
-        <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" height="30" width="30" style="margin: 0 5px;"/>
-    </a>
 </p>
 
 <p>
