@@ -39,6 +39,9 @@
     <a href="https://instagram.com/just.hiram_" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="just.hiram_" height="30" width="40" style="margin: 0; padding: 0;"/>
     </a>
+    <a href="https://g.dev/Alanhiram75" target="blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Android_Developer_Logo.svg" alt="Android Developer" height="30" width="40" style="margin: 0 5px;"/>
+    </a>
     <a href="mailto:alanhiram75@gmail.com" style="font-size: 20px; margin: 0 5px;">alanhiram75@gmail.com</a>
 </p>
 
