@@ -1,7 +1,7 @@
 <h1 align="center">Hi ☕, I'm Alan Hiram</h1>
 <h3 align="center">
     <a href="https://github.com/Alanhiram75">
-        <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Systems+Engineering+Student&center=true&width=600&height=45">
+        <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Systems+Engineering+Student;Computer+Systems+Developer&center=true&width=600&height=45&size=30&speed=100">
     </a>
 </h3>
 
