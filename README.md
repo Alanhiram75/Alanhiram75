@@ -42,8 +42,8 @@
     <a href="https://g.dev/Alanhiram75" target="blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Android_Developer_Logo.svg" alt="Android Developer" height="30" width="40" style="margin: 0 5px;"/>
     </a>
-    <a href="https://github.com/tandpfun/skill-icons#android" target="_blank">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Android.svg" alt="Android" height="30" width="40" style="margin: 0 5px;"/>
+    <a href="https://developer.android.com/studio" target="_blank">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio.svg" alt="Android Studio" height="30" width="40" style="margin: 0 5px;"/>
     </a>
     <a href="mailto:alanhiram75@gmail.com" style="font-size: 20px; margin: 0 5px;">alanhiram75@gmail.com</a>
 </p>
