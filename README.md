@@ -47,5 +47,5 @@
 </p>
 
 <p align="center">
-    <img src="https://64.media.tumblr.com/f8134b0337d2c3d025b82904c07faf74/tumblr_pdewz5XhaW1scncdwo1_540.gif" width="300" alt="Animated GIF" />
+    <img src="https://64.media.tumblr.com/f8134b0337d2c3d025b82904c07faf74/tumblr_pdewz5XhaW1scncwdo1_540.gif" width="300" alt="Animated GIF" />
 </p>
