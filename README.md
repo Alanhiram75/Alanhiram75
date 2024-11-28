@@ -32,9 +32,6 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" style="margin: 0 5px;"/> 
     </a>
-    <a href="https://g.dev/Alanhiram75" target="_blank" rel="noreferrer"> 
-        <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" height="40" width="40" style="margin: 0 5px;"/>
-    </a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -50,5 +47,6 @@
 </p>
 
 <p align="center">
-    <img src="https://64.media.tumblr.com/f8134b0337d2c3d025b82904c07faf74/tumblr_pdewz5XhaW1scncwdo1_540.gif" width="300" alt="Animated GIF" />
+    <img src="https://64.media.tumblr.com/f8134b0337d2c3d025b82904c07faf74/tumblr_pdewz5XhaW1scnc
+wdo1_540.gif" width="300" alt="Animated GIF" />
 </p>
