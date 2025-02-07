@@ -23,9 +23,9 @@
     <a href="mailto:alanhiram75@gmail.com" style="font-size: 20px; margin: 0 5px;">alanhiram75@gmail.com</a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Alanhiram75&show_icons=true&theme=shadow_blue&hide_border=true" />
+<h3 align="center">My GitHub Stats:</h3>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Alanhiram75&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical" />
 </p>
 
 <p align="center">
