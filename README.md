@@ -3,7 +3,7 @@
     <a href="https://github.com/Alanhiram75">
         <span style="color: #00aaff; font-size: 24px; font-family: Arial, sans-serif;">Computer Systems Engineering Student</span><br>
         <span style="color: #00aaff; font-size: 24px;">
-            <img src="https://readme-typing-svg.herokuapp.com?lines=Developer&center=true&width=300&height=45">
+            <img src="https://readme-typing-svg.herokuapp.com?lines=Programmer&center=true&width=300&height=45">
         </span>
     </a>
 </h3>
@@ -23,8 +23,9 @@
     <a href="mailto:alanhiram75@gmail.com" style="font-size: 20px; margin: 0 5px;">alanhiram75@gmail.com</a>
 </p>
 
+<h3 align="left">GitHub Stats:</h3>
 <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alanhiram75&theme=shadow_blue&hide_border=false" /><br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Alanhiram75&show_icons=true&theme=shadow_blue&hide_border=true" />
 </p>
 
 <p align="center">
