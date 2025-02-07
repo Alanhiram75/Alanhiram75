@@ -25,7 +25,7 @@
 
 <h3 align="center">My GitHub Stats:</h3>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Alanhiram75&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Alanhiram75&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=github_dark&card_width=400" />
 </p>
 
 <p align="center">
