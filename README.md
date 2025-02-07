@@ -1,14 +1,14 @@
-<h1 align="center">¡Hola ☕, soy Alan Hiram!</h1>
+<h1 align="center">Hi ☕, I'm Alan Hiram</h1>
 <h3 align="center">
     <a href="https://github.com/Alanhiram75">
-        <span style="color: #00aaff; font-size: 24px; font-family: Arial, sans-serif;">Estudiante de Ingeniería en Sistemas Computacionales</span><br>
+        <span style="color: #00aaff; font-size: 24px; font-family: Arial, sans-serif;">Computer Systems Engineering Student</span><br>
         <span style="color: #00aaff; font-size: 24px;">
-            <img src="https://readme-typing-svg.herokuapp.com?lines=Programador&center=true&width=300&height=45">
+            <img src="https://readme-typing-svg.herokuapp.com?lines=Programmer&center=true&width=300&height=45">
         </span>
     </a>
 </h3>
 
-<h3 align="left">Habilidades:</h3>
+<h3 align="left">Skills:</h3>
 <p align="left" style="margin: 0;">
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="margin: 0 5px;"/> 
@@ -16,12 +16,9 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" style="margin: 0 5px;"/>
     </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin: 0 5px;"/>
-    </a>
 </p>
 
-<h3 align="left">Conéctate conmigo:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left" style="margin: 0;">
     <a href="https://instagram.com/just.hiram_" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="just.hiram_" height="30" width="30" style="margin: 0; padding: 0;"/>
@@ -30,5 +27,5 @@
 </p>
 
 <p align="center">
-    <img src="https://64.media.tumblr.com/f8134b0337d2c3d025b82904c07faf74/tumblr_pdewz5XhaW1scncwdo1_540.gif" width="300" alt="GIF Animado" />
+    <img src="https://64.media.tumblr.com/f8134b0337d2c3d025b82904c07faf74/tumblr_pdewz5XhaW1scncwdo1_540.gif" width="300" alt="Animated GIF" />
 </p>
