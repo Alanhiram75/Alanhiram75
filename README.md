@@ -3,7 +3,7 @@
     <a href="https://github.com/Alanhiram75">
         <span style="color: #00aaff; font-size: 24px; font-family: Arial, sans-serif;">Computer Systems Engineering Student</span><br>
         <span style="color: #00aaff; font-size: 24px;">
-            <img src="https://readme-typing-svg.herokuapp.com?lines=Programmer&center=true&width=300&height=45">
+            <img src="https://readme-typing-svg.herokuapp.com?lines=Developer&center=true&width=300&height=45">
         </span>
     </a>
 </h3>
