@@ -14,9 +14,9 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
 </p>
 
 <h3 align="left">Certifications:</h3>
