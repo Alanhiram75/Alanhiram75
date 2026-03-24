@@ -23,15 +23,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alanhiram75&theme=tokyonight&row=1&no-bg=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanhiram75&layout=compact&theme=tokyonight" />
-  &nbsp;&nbsp;
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=21qsgtddlb2vo4lfyoks7er5y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" />
-  </a>
 </p>
 
 <p align="center">
