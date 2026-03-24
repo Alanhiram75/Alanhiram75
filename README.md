@@ -9,10 +9,6 @@
   </a>
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alanhiram75&color=blue&style=flat" />
-</p>
-
 <h3 align="left">Skills:</h3>
 <p align="left" style="margin: 0;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 8px;"/>
@@ -31,8 +27,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alanhiram75&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanhiram75&layout=compact&theme=tokyonight" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=21qsgtddlb2vo4lfyoks7er5y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" />
+  </a>
 </p>
 
 <p align="center">
