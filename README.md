@@ -39,22 +39,24 @@
 
 <br>
 
-<p align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+<tr>
 
-<span style="display:inline-block; margin:10px; vertical-align:middle;">
-  <img 
-    src="https://64.media.tumblr.com/f8134b0337d2c3d025b82904c07faf74/tumblr_pdewz5XhaW1scncwdo1_540.gif"
-    width="280"
-  />
-</span>
+<td align="center" width="300">
 
-<span style="display:inline-block; margin:10px; vertical-align:middle;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanhiram75&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117"
-  />
-</span>
+<img src="https://64.media.tumblr.com/f8134b0337d2c3d025b82904c07faf74/tumblr_pdewz5XhaW1scncwdo1_540.gif"
+width="280"/>
 
-</p>
+</td>
+
+<td align="center" width="350">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanhiram75&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
