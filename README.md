@@ -24,9 +24,6 @@
   <img src="https://64.media.tumblr.com/f8134b0337d2c3d025b82904c07faf74/tumblr_pdewz5XhaW1scncwdo1_540.gif" width="300" alt="Animated GIF" />
 </p>
 
----
-
-<h3 align="center">🐍 My Contribution Snake</h3>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alanhiram75/Alanhiram75/output/github-snake-dark.svg" />
