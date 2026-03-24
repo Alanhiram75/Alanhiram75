@@ -9,6 +9,10 @@
   </a>
 </h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Alanhiram75&color=blue&style=flat" />
+</p>
+
 <h3 align="left">Skills:</h3>
 <p align="left" style="margin: 0;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 8px;"/>
@@ -18,6 +22,17 @@
 <h3 align="left">Contact:</h3>
 <p align="left" style="margin: 0; font-size: 18px;">
   ✉️ alanhiram75@gmail.com
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Alanhiram75&theme=tokyonight&row=1&no-bg=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alanhiram75&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanhiram75&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
