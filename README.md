@@ -37,13 +37,17 @@ Computer Systems Engineering Student
 
 <table align="center">
 <tr>
+
 <td align="center">
 <img src="https://64.media.tumblr.com/f8134b0337d2c3d025b82904c07faf74/tumblr_pdewz5XhaW1scncwdo1_540.gif" width="280"/>
 </td>
 
 <td align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanhiram75&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanhiram75&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </td>
+
 </tr>
 </table>
 
