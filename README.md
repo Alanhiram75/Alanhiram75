@@ -1,12 +1,12 @@
 <h1 align="center">Hi ☕, I'm Alan Hiram</h1>
+
 <h3 align="center">
-  <a href="https://github.com/Alanhiram75" style="text-decoration:none;">
-    <span style="color:#00aaff; font-size:24px; font-family:Arial, sans-serif;">
-      Computer Systems Engineering Student
-    </span><br>
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Developer&center=true&width=300&height=45">
-  </a>
+Computer Systems Engineering Student
 </h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Developer&center=true&width=300&height=45">
+</p>
 
 <h3 align="left">Skills:</h3>
 <p align="left">
@@ -35,18 +35,19 @@
 
 <br>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<table align="center">
 <tr>
-<td align="center" width="300">
+<td align="center">
 <img src="https://64.media.tumblr.com/f8134b0337d2c3d025b82904c07faf74/tumblr_pdewz5XhaW1scncwdo1_540.gif" width="280"/>
 </td>
-<td align="center" width="350">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanhiram75&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8"/>
+
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanhiram75&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </td>
 </tr>
 </table>
 
-<div style="height:40px;"></div>
+<br>
 
 <p align="center">
 <picture>
