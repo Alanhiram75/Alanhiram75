@@ -1,21 +1,14 @@
 <h1 align="center">Hi ☕, I'm Alan Hiram</h1>
-
 <h3 align="center">
 Computer Systems Engineering Student
 </h3>
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?lines=Developer&center=true&width=300&height=45">
 </p>
 
 <h3 align="left">Skills:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cs,cpp,astro,tailwind,react,nodejs,postgres,git,linux,arch&perline=8" />
 </p>
 
 <h3 align="left">Certifications:</h3>
@@ -30,15 +23,13 @@ Computer Systems Engineering Student
 
 <h3 align="left">Contact:</h3>
 <p align="left">
-✉️ alanhiram75@gmail.com
+✉️ <a href="mailto:alanhiram75@gmail.com">alanhiram75@gmail.com</a>
 </p>
 
 <br>
-
 <p align="center">
 <img src="https://64.media.tumblr.com/f8134b0337d2c3d025b82904c07faf74/tumblr_pdewz5XhaW1scncwdo1_540.gif" width="300"/>
 </p>
-
 <br>
 
 <p align="center">
