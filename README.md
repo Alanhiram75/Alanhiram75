@@ -11,17 +11,17 @@ Computer Systems Engineering Student
   <img src="https://skillicons.dev/icons?i=python,arch,postgres,git,js,cs" />
 </p>
 
-<h3 align="left">Certifications:</h3>
+<h3 align="left">Certifications 🏅</h3>
 <p align="left">
   <a href="https://www.credly.com/users/alan-hiram-alvarez-bazan/badges#credly">
-    <img src="https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=credly" />
   </a>
   <a href="https://learn.microsoft.com/es-es/users/hiram-6550/">
-    <img src="https://img.shields.io/badge/Microsoft_Learn-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=azure" />
   </a>
 </p>
 
-<h3 align="left">Get in Touch / Contacto 📩</h3>
+<h3 align="left">Contact Me 📩</h3>
 <p align="left">
   <a href="mailto:alanhiram75@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
