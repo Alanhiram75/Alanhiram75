@@ -8,7 +8,7 @@ Computer Systems Engineering Student
 
 <h3 align="left">Skills:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cs,cpp,astro,tailwind,react,nodejs,postgres,git,linux,arch&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,arch,linux,postgres,git,js,cs" />
 </p>
 
 <h3 align="left">Certifications:</h3>
