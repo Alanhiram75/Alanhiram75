@@ -8,7 +8,7 @@ Computer Systems Engineering Student
 
 <h3 align="left">Skills:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,arch,linux,postgres,git,js,cs" />
+  <img src="https://skillicons.dev/icons?i=python,arch,postgres,git,js,cs" />
 </p>
 
 <h3 align="left">Certifications:</h3>
@@ -21,9 +21,16 @@ Computer Systems Engineering Student
   </a>
 </p>
 
-<h3 align="left">Contact:</h3>
+<h3 align="left">Get in Touch / Contacto 📩</h3>
 <p align="left">
-✉️ <a href="mailto:alanhiram75@gmail.com">alanhiram75@gmail.com</a>
+  <a href="mailto:alanhiram75@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+<h3 align="left">Most Used Languages:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanhiram75&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <br>
