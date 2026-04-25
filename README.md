@@ -17,7 +17,7 @@ Computer Systems Engineering Student
     <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/>
   </a>
   <a href="https://learn.microsoft.com/es-es/users/hiram-6550/">
-    <img src="https://skillicons.dev/icons?i=azure" />
+    <img src="https://img.shields.io/badge/Microsoft_Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
   </a>
 </p>
 
