@@ -32,13 +32,13 @@ Computer Systems Engineering Student
 
 <h3 align="left">Most Used Languages:</h3>
 
-<table align="center">
+<table>
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanhiram75&layout=compact&theme=tokyonight&hide_border=true" />
-    </td>
-    <td align="center">
+    <td>
       <img src="https://64.media.tumblr.com/f8134b0337d2c3d025b82904c07faf74/tumblr_pdewz5XhaW1scncwdo1_540.gif" width="300"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanhiram75&layout=compact&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
 </table>
