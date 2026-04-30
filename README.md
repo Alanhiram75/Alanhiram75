@@ -1,9 +1,11 @@
 <h1 align="center">Hi ☕, I'm Alan Hiram</h1>
+
 <h3 align="center">
 Computer Systems Engineering Student
 </h3>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Developer&center=true&width=300&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Developer&center=true&width=300&height=45">
 </p>
 
 <h3 align="left">Skills:</h3>
@@ -29,23 +31,27 @@ Computer Systems Engineering Student
 </p>
 
 <h3 align="left">Most Used Languages:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanhiram75&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanhiram75&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+    <td align="center">
+      <img src="https://64.media.tumblr.com/f8134b0337d2c3d025b82904c07faf74/tumblr_pdewz5XhaW1scncwdo1_540.gif" width="300"/>
+    </td>
+  </tr>
+</table>
 
 <br>
-<p align="center">
-<img src="https://64.media.tumblr.com/f8134b0337d2c3d025b82904c07faf74/tumblr_pdewz5XhaW1scncwdo1_540.gif" width="300"/>
-</p>
-<br>
 
 <p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/Alanhiram75/Alanhiram75/output/github-snake-dark.svg"/>
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/Alanhiram75/Alanhiram75/output/github-snake.svg"/>
-<img alt="github-snake"
-src="https://raw.githubusercontent.com/Alanhiram75/Alanhiram75/output/github-snake.svg"/>
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Alanhiram75/Alanhiram75/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Alanhiram75/Alanhiram75/output/github-snake.svg"/>
+    <img alt="github-snake"
+      src="https://raw.githubusercontent.com/Alanhiram75/Alanhiram75/output/github-snake.svg"/>
+  </picture>
 </p>
