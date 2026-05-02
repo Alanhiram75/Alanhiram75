@@ -15,12 +15,8 @@ Computer Systems Engineering Student
 
 <h3 align="left">Certifications 🏅</h3>
 <p align="left">
-  <a href="https://www.credly.com/users/alan-hiram-alvarez-bazan/badges#credly">
-    <img src="https://img.shields.io/badge/Credly-FF6B00?style=flat&logo=credly&logoColor=white"/>
-  </a>
-  <a href="https://learn.microsoft.com/es-es/users/hiram-6550/">
-    <img src="https://img.shields.io/badge/Microsoft%20Learn-0078D4?style=flat&logo=microsoft&logoColor=white"/>
-  </a>
+  • <a href="https://www.credly.com/users/alan-hiram-alvarez-bazan/badges#credly">Credly Profile</a><br>
+  • <a href="https://learn.microsoft.com/es-es/users/hiram-6550/">Microsoft Learn Profile</a>
 </p>
 
 <h3 align="left">Contact Me 📩</h3>
