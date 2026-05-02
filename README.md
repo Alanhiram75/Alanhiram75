@@ -10,7 +10,7 @@ Computer Systems Engineering Student
 
 <h3 align="left">Skills:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,arch,postgres,git,js,cs" />
+  <img src="https://skillicons.dev/icons?i=git,python,postgres,arch" />
 </p>
 
 <h3 align="left">Certifications 🏅</h3>
