@@ -23,18 +23,11 @@ Computer Systems Engineering Student
 
 <br>
 
-<h3 align="left">Most Used Languages:</h3>
+<h3 align="left">Languages Distribution:</h3>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://64.media.tumblr.com/f8134b0337d2c3d025b82904c07faf74/tumblr_pdewz5XhaW1scncwdo1_540.gif" width="300"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanhiram75&layout=compact&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alanhiram75&theme=tokyonight" />
+</p>
 
 <br>
 
