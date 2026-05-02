@@ -23,21 +23,13 @@ Computer Systems Engineering Student
 
 <br>
 
-<h3 align="left">Languages Distribution:</h3>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alanhiram75&theme=tokyonight" />
-</p>
-
-<br>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Alanhiram75/Alanhiram75/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Alanhiram75/Alanhiram75/output/github-snake.svg"/>
-    <img alt="github-snake"
-      src="https://raw.githubusercontent.com/Alanhiram75/Alanhiram75/output/github-snake.svg"/>
-  </picture>
-</p>
+<table>
+  <tr>
+    <td align="left">
+      <img src="https://64.media.tumblr.com/f8134b0337d2c3d025b82904c07faf74/tumblr_pdewz5XhaW1scncwdo1_540.gif" width="300"/>
+    </td>
+    <td align="left">
+      <img src="https://raw.githubusercontent.com/Alanhiram75/Alanhiram75/output/github-snake.svg" width="400"/>
+    </td>
+  </tr>
+</table>
