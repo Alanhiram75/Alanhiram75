@@ -23,13 +23,7 @@ Computer Systems Engineering Student
 
 <br>
 
-<table>
-  <tr>
-    <td align="left">
-      <img src="https://64.media.tumblr.com/f8134b0337d2c3d025b82904c07faf74/tumblr_pdewz5XhaW1scncwdo1_540.gif" width="300"/>
-    </td>
-    <td align="left">
-      <img src="https://raw.githubusercontent.com/Alanhiram75/Alanhiram75/output/github-snake.svg" width="400"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://64.media.tumblr.com/f8134b0337d2c3d025b82904c07faf74/tumblr_pdewz5XhaW1scncwdo1_540.gif" width="300"/>
+  <img src="https://raw.githubusercontent.com/Alanhiram75/Alanhiram75/output/github-snake.svg" width="400"/>
+</p>
