@@ -23,10 +23,12 @@ Computer Systems Engineering Student
 
 <br>
 
+<!-- GIF -->
 <p align="center">
   <img src="https://64.media.tumblr.com/f8134b0337d2c3d025b82904c07faf74/tumblr_pdewz5XhaW1scncwdo1_540.gif" width="300"/>
 </p>
 
+<!-- Snake -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
@@ -37,4 +39,19 @@ Computer Systems Engineering Student
       src="https://raw.githubusercontent.com/Alanhiram75/Alanhiram75/output/github-snake.svg"
       width="400"/>
   </picture>
+</p>
+
+<!-- Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Alanhiram75&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alanhiram75&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alanhiram75&theme=tokyo-night&hide_border=true" />
 </p>
