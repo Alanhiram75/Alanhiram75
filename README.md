@@ -46,7 +46,7 @@ Computer Systems Engineering Student
       <img src="https://streak-stats.demolab.com?user=Alanhiram75&theme=tokyonight&hide_border=true" />
     </td>
     <td align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alanhiram75&theme=tokyo-night&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Alanhiram75&show_icons=true&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
 </table>
