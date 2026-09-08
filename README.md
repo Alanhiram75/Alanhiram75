@@ -5,7 +5,7 @@ Computer Systems Engineering Student
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Developer&center=true&width=300&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Developer&center=true&width=300&height=45" />
 </p>
 
 <h3 align="left">Skills:</h3>
@@ -23,30 +23,25 @@ Computer Systems Engineering Student
 
 <br>
 
-<table>
+<table border="0">
   <tr>
-    <td align="center">
-      <img src="https://64.media.tumblr.com/f8134b0337d2c3d025b82904c07faf74/tumblr_pdewz5XhaW1scncwdo1_540.gif" width="260"/>
+    <td align="center" width="35%" valign="middle">
+      <img src="https://64.media.tumblr.com/f8134b0337d2c3d025b82904c07faf74/tumblr_pdewz5XhaW1scncwdo1_540.gif" width="100%" style="max-width:260px;" />
     </td>
-    <td align="center">
+    <td align="center" width="65%" valign="middle">
       <picture>
-        <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/Alanhiram75/Alanhiram75/output/github-snake-dark.svg"/>
-        <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/Alanhiram75/Alanhiram75/output/github-snake.svg"/>
-        <img alt="github-snake"
-          src="https://raw.githubusercontent.com/Alanhiram75/Alanhiram75/output/github-snake.svg"
-          width="520"/>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alanhiram75/Alanhiram75/output/github-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alanhiram75/Alanhiram75/output/github-snake.svg" />
+        <img alt="github-snake" src="https://raw.githubusercontent.com/Alanhiram75/Alanhiram75/output/github-snake.svg" width="100%" />
       </picture>
     </td>
   </tr>
-
   <tr>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com?user=Alanhiram75&theme=tokyonight&hide_border=true" />
+    <td align="center" width="50%" valign="middle">
+      <img src="https://streak-stats.demolab.com?user=Alanhiram75&theme=tokyonight&hide_border=true" width="100%" />
     </td>
-    <td align="center">
-      <img src="./assets/top-languages.svg" width="400" alt="Top Languages"/>
+    <td align="center" width="50%" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanhiram75&theme=tokyonight&hide_border=true&layout=compact" width="100%" />
     </td>
   </tr>
 </table>
