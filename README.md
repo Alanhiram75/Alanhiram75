@@ -36,12 +36,13 @@ Computer Systems Engineering Student
       </picture>
     </td>
   </tr>
+
   <tr>
     <td align="center" width="50%" valign="middle">
       <img src="https://streak-stats.demolab.com?user=Alanhiram75&theme=tokyonight&hide_border=true" width="100%" />
     </td>
     <td align="center" width="50%" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanhiram75&theme=tokyonight&hide_border=true&layout=compact" width="100%" />
+      <img src="https://github-readme-stats.azurewebsites.net/api?username=Alanhiram75&theme=tokyonight&hide_border=true&show_icons=true" width="100%" />
     </td>
   </tr>
 </table>
