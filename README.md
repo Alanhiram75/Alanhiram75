@@ -46,7 +46,22 @@ Computer Systems Engineering Student
       <img src="https://streak-stats.demolab.com?user=Alanhiram75&theme=tokyonight&hide_border=true" />
     </td>
     <td align="center">
-      <img src="https://TU-INSTANCIA.vercel.app/api/pin/?username=Alanhiram75&repo=labs-containers&theme=tokyonight&hide_border=true" />
-    </td>
+      <h3>Top Languages</h3>
+
+```
+  <p>
+    <strong>Shell</strong> 81.9%
+    <br>
+    <progress value="81.9" max="100"></progress>
+  </p>
+
+  <p>
+    <strong>Dockerfile</strong> 18.1%
+    <br>
+    <progress value="18.1" max="100"></progress>
+  </p>
+</td>
+```
+
   </tr>
 </table>
