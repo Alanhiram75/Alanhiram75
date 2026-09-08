@@ -28,43 +28,25 @@ Computer Systems Engineering Student
     <td align="center">
       <img src="https://64.media.tumblr.com/f8134b0337d2c3d025b82904c07faf74/tumblr_pdewz5XhaW1scncwdo1_540.gif" width="260"/>
     </td>
-
-```
-<td align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Alanhiram75/Alanhiram75/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Alanhiram75/Alanhiram75/output/github-snake.svg"
-    />
-    <img
-      alt="github-snake"
-      src="https://raw.githubusercontent.com/Alanhiram75/Alanhiram75/output/github-snake.svg"
-      width="520"
-    />
-  </picture>
-</td>
-```
-
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Alanhiram75/Alanhiram75/output/github-snake-dark.svg"/>
+        <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Alanhiram75/Alanhiram75/output/github-snake.svg"/>
+        <img alt="github-snake"
+          src="https://raw.githubusercontent.com/Alanhiram75/Alanhiram75/output/github-snake.svg"
+          width="520"/>
+      </picture>
+    </td>
   </tr>
 
   <tr>
     <td align="center">
-      <img
-        src="https://streak-stats.demolab.com?user=Alanhiram75&theme=tokyonight&hide_border=true"
-      />
+      <img src="https://streak-stats.demolab.com?user=Alanhiram75&theme=tokyonight&hide_border=true" />
     </td>
-
-```
-<td align="center">
-  <img
-    src="https://TU-INSTANCIA.vercel.app/api/pin/?username=Alanhiram75&repo=labs-containers&theme=tokyonight&hide_border=true"
-  />
-</td>
-```
-
+    <td align="center">
+      <img src="https://TU-INSTANCIA.vercel.app/api/pin/?username=Alanhiram75&repo=labs-containers&theme=tokyonight&hide_border=true" />
+    </td>
   </tr>
 </table>
