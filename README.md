@@ -23,20 +23,6 @@ Computer Systems Engineering Student
 
 <br>
 
-<table border="0">
-  <tr>
-    <td align="center" width="100%" valign="middle">
-      <img src="https://streak-stats.demolab.com?user=Alanhiram75&theme=tokyonight&hide_border=true" width="100%" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" valign="middle">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alanhiram75/Alanhiram75/output/github-snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alanhiram75/Alanhiram75/output/github-snake.svg" />
-        <img alt="github-snake" src="https://raw.githubusercontent.com/Alanhiram75/Alanhiram75/output/github-snake.svg" width="100%" />
-      </picture>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Alanhiram75&theme=tokyonight&hide_border=true" width="100%" />
+</p>
