@@ -25,16 +25,13 @@ Computer Systems Engineering Student
 
 <table border="0">
   <tr>
-    <td align="center" width="50%" valign="middle">
+    <td align="center" width="100%" valign="middle">
       <img src="https://streak-stats.demolab.com?user=Alanhiram75&theme=tokyonight&hide_border=true" width="100%" />
-    </td>
-    <td align="center" width="50%" valign="middle">
-      <img src="https://github-readme-stats.azurewebsites.net/api?username=Alanhiram75&theme=tokyonight&hide_border=true&show_icons=true" width="100%" />
     </td>
   </tr>
 
   <tr>
-    <td align="center" colspan="2" valign="middle">
+    <td align="center" valign="middle">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alanhiram75/Alanhiram75/output/github-snake-dark.svg" />
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alanhiram75/Alanhiram75/output/github-snake.svg" />
